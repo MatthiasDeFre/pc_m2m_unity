@@ -39,7 +39,7 @@ You can configure the application, including the camera, by changing the values 
 ## Dependencies
 All dependencies will be automatically downloaded when opening the project.
 
-However, you do need the two Dlls responsible for [capturing](../capturer) and [encoding/decoding](../mdc_encoder). You will only need to worry this about you make changes to these Dlls, and when you are building the application (see building instructions).
+However, you do need the two Dlls responsible for [capturing](https://github.com/MatthiasDeFre/spirit_realsense_june) and [encoding/decoding](https://github.com/MatthiasDeFre/spirit_draco_june). You will only need to worry this about you make changes to these Dlls, and when you are building the application (see building instructions).
 
 ## Supported HMDs
 In general every OpenXR compatible headset will work. However, below is a list of all headsets that have been tested and verified:
